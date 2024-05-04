@@ -86,7 +86,7 @@ class Account {
     }
 }
 
-public class BankManagementSystemGUI {
+public class BankManagementSystem {
     private static Map<String, Account> accounts = new HashMap<>();
 
     public static void main(String[] args) {
